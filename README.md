@@ -1,16 +1,4 @@
-## 博客目录
 
-
-打造一系列前端进阶的优质文章，博客将侧重于原生JS、 React、ReactNative和Webpack等入门与底层原理分析，只有在自己实践和深入理解后，才会输出相关博文，以确保博文内容的准确性。
-
-> ### 小姐姐的微信公众号：前端宇宙。
-
-![1](https://user-gold-cdn.xitu.io/2019/4/11/16a0c583ed725866?w=258&h=258&f=jpeg&s=27756)
-
-欢迎关注本人的博文:
-
-- #### [segmentFault](https://segmentfault.com/u/liuyan666/articles)
-- #### [掘金](https://juejin.im/user/5c6256596fb9a049bd42c770/posts)
 
 > ## 面试系列
 
